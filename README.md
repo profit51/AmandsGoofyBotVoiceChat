@@ -1,6 +1,6 @@
                                         Amands's Goofy Sounds Replacer as A Bot Voice Chat
 
-This is My Custom Amands Goofy Bot Voice Chat
+This is My Custom Amands Goofy Bot Voice Chat For Mod SPT AKI Tarkov
 
 To Install drag these file into BepInEx/plugin/goofySounds
 
