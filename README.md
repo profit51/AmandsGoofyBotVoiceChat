@@ -1,4 +1,4 @@
-                                           Amands's Goofy Sounds Replacer as A Bot Voice Chat
+                                        Amands's Goofy Sounds Replacer as A Bot Voice Chat
 
 This is My Custom Amands Goofy Bot Voice Chat
 
